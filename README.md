@@ -1,5 +1,4 @@
 I am a computer science student with a passion for computer vision and computer graphics, which is my major in my engineering school.
-[test](test.com)
 
 ## Main projects
 
