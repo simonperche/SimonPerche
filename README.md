@@ -1,4 +1,4 @@
-I am a computer science student with a passion for computer vision and computer graphics, which is my major in my engineering school.
+I am currently a PhD student in computer graphics at the LIRIS lab in Lyon. 
 
 ## Main projects
 
